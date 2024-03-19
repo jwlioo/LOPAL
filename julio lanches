@@ -4,7 +4,7 @@ programa {
     inteiro opcao
     cadeia lanches, continuar
     escreva ("bem vindo ao Julio lanches \n")
-    escreva ("aberto de segunda á segunda das 18:00 as 00:00hr\n")
+    escreva ("aberto de segunda Ã¡ segunda das 18:00 as 00:00hr\n")
     escreva ("instagram da loja @juliolanches_ipiranga\n")
     escreva (" numero da loja 11956865690\n")
     escreva (" continuar para o atedimento: ")
@@ -21,7 +21,7 @@ programa {
     escreva ("6) x-calabacon\n")
     escreva ("7) x-frangao\n") 
     escreva ("8) x-churrascao\n")
-    escreva ("9) luinguiça-top\n")
+    escreva ("9) luinguiÃ§a-top\n")
     escreva ("10) x-burguer\n")
     escreva ("11) promocao\n")
 
@@ -67,7 +67,7 @@ programa {
        escreva ("so R$12,00 batata frita + cheddar + bacon + calabresa")
        pare
       caso contrario: 
-      escreva ("opçao invalida!")
+      escreva ("opÃ§ao invalida!")
     }
       escreva ("\n agora escolha forma de pagamento")
       escreva ("\n1) debito\n")
